@@ -73,4 +73,3 @@ save_path_energy_plot = os.path.join(script_dir, "energy_plot.png")
 
 
 
-
